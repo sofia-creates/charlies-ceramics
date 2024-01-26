@@ -12,4 +12,4 @@ Det finns ingen mapp för ikoner i denna inlämning, eftersom ikonerna som anvä
 
 # Länk till Figma filen
 
-https://www.figma.com/file/YtqZMpY262KSU5f9mldubx/Chestnut-Ceramics-2.0?type=design&node-id=0%3A1&mode=design&t=bQml5OjxHePwO3F4-1
+https://www.figma.com/file/YtqZMpY262KSU5f9mldubx/Charlies-Ceramics-2.0?type=design&node-id=0%3A1&mode=design&t=jWTOsMNXsfZD5TEP-1 
